@@ -1,0 +1,17 @@
+{
+  "name": "paperhive-sshuser",
+  "version": "0.0.1",
+  "author": "André Gaul",
+  "license": "GPLv3",
+  "summary": "Define users with passwords and ssh keys",
+  "source": "https://github.com/paperhive/paperhive-puppet-sshuser",
+  "project_page": "https://forge.puppetlabs.com/paperhive/sshuser",
+  "issues_url": "https://github.com/paperhive/paperhive-puppet-sshuser/issues",
+  "tags": ["user", "ssh", "keys"],
+  "dependencies": [
+    {
+      "name": "puppetlabs/stdlib",
+      "version_requirement": ">=3.2.0 <5.0.0"
+    }
+  ]
+}
